@@ -14,4 +14,4 @@ XHXcodePlug
 
 
 ####3、[Reveal-Plugin-for-XCode](https://github.com/shjborage/Reveal-Plugin-for-XCode)是Reveal App的一个辅助插件，省去开发者的配置时间，从而达到最大的效果。
-* 使用心得：
+* 使用心得：当对一个需求比较特殊的时候，比如富文本显示复杂的数据，这时候可能需要对每行、每列、字体进行细节的调整，可以利用Reveal进行三维空间的查看，这只是对开发哦！如果你想破解别人的app，看别人app的某个功能时，通过它还是可以给予多少帮助的哈！看封装、看继承的基类是什么，具体[点击这里](http://c.blog.sina.com.cn/profile.php?blogid=cb8a22ea89000gtw)                          
