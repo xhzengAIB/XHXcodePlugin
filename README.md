@@ -24,3 +24,9 @@ XHXcodePlug
 * 使用心得：这个没有什么异议了，之所以输入三行斜杠，是避免了默认的注释功能，所以两者配合一起用，也不错，有时候不需要规范的注释，有时候对API就需要规范的注释，所以就得需要VVDocumenter-xcode来帮忙啦！
 
 
+
+####6、[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)为项目中使用的UIImage的imageNamed提供文件名自动补全功能。使用[UIImage imageNamed:@"xxx"]时，该插件会扫描整个workspace中的图片文件。
+* 使用心得：这个有个技巧，不知道是不是用了[FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)这个插件的原因，我描述一下流程吧！当输入[UIImage imageNamed:在这里会弹出窗口，进行选择图片，但是这里如果记得图片的名字，可输入一些关键词，就马上可以快速的选择相应的图片]
+
+
+
