@@ -11,3 +11,7 @@ XHXcodePlug
 
 ####2、[FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)是代码补全的插件，提供对用户自定义方法或者系统api方法都可以预先提示。比如你想要UIImageView，你只需要输入uimv，就会出现提示
 * 使用心得：当你输入的方法名关键字会涉及到所有系统或者用户定义方法关键字的时候，你就会有点烦，所以这个看人吧！如果想偷懒，但是还是需要技巧的，比如你想要UIImageView，如果你输入UIge，会很快查到，所以这个看人吧！
+
+
+####3、[Reveal-Plugin-for-XCode](https://github.com/shjborage/Reveal-Plugin-for-XCode)是Reveal App的一个辅助插件，省去开发者的配置时间，从而达到最大的效果。
+* 使用心得：
