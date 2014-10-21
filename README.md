@@ -39,5 +39,5 @@ XHXcodePlug
 ####9、[Auto-Importer-for-Xcode](https://github.com/lucholaf/Auto-Importer-for-Xcode)是一款自动包含所需头文件的插件，省去烦人的import，这样一来你写代码都顺畅。
 * 使用心得：这样会导致一个小小的问题，你变懒了，你可能遗忘你写的类名、遗忘你所熟悉的东西，不过好处远远大于坏处啦！
 
-####9、终极插件，嘿嘿！[Alcatraz](https://github.com/supermarin/Alcatraz)是一个开源的Xcode 4包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
+####10、终极插件，嘿嘿！[Alcatraz](https://github.com/supermarin/Alcatraz)是一个开源的Xcode 4包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
 * 使用心得：当你想起一个插件的时候，可能会想知道他有什么功能，或者先预览一下，这时候它就可以帮你了，每个插件的描述右下角有两个按钮，可以出现你喜欢的功能，哈哈！
