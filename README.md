@@ -48,7 +48,7 @@ XHXcodePlug
 ####12、Xcode view配色方案 [HexColorPicker](http://wafflesoftware.net/hexpicker/download/1.6.1/)
 有时通过xib或者storyboard直接对一个view设置颜色，此时只知道颜色的16进制值，就非常有用了。
 有人说用代码也可以实现， 是的。 如果view多了那不是需要声明N多个IBOutLet
-* 使用: 解压到至~/Library/ColorPickers/ 文件夹不存在请手动创建
+* 安装插件的方法: 解压到至~/Library/ColorPickers/ 文件夹不存在请手动创建
 ![image](http://img.my.csdn.net/uploads/201209/20/1348077380_7140.png)
 
 ####终极插件，嘿嘿！[Alcatraz](https://github.com/supermarin/Alcatraz)是一个开源的Xcode 4包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
