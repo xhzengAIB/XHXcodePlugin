@@ -51,6 +51,10 @@ XHXcodePlug
 * 安装插件的方法: 解压到至~/Library/ColorPickers/ 文件夹不存在请手动创建
 ![image](http://img.my.csdn.net/uploads/201209/20/1348077380_7140.png)
 
+
+####13、我们国人开发的Xcode插件，必须顶起，而且真的很实用，[ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin)你能快速在Simulator文件夹中找到对应编译过的App。
+* 使用心得，感觉比较实在，比如我想看数据库文件，录制的视频文件，那就可以快速的响应，而不需要，咦！你等下，我找找看。
+
 ####终极插件，嘿嘿！[Alcatraz](https://github.com/supermarin/Alcatraz)是一个开源的Xcode 4包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
 * 使用心得：当你想起一个插件的时候，可能会想知道他有什么功能，或者先预览一下，这时候它就可以帮你了，每个插件的描述右下角有两个按钮，可以出现你喜欢的功能，哈哈！
 
