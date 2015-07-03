@@ -29,7 +29,7 @@ XHXcodePlug
 * 使用心得：这个有个技巧，不知道是不是用了[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)这个插件的原因，我描述一下流程吧！当输入[UIImage imageNamed:在这里会弹出窗口，进行选择图片，但是这里如果记得图片的名字，可输入一些关键词，就马上可以快速的选择相应的图片]
 
 
-####7、对于现阶段，扁平化的设计、扁平化的app越来越多，这时候对颜色的感知需要敏感，对于程序员而言，可能对颜色没那么敏感，我只是说普通，不是一棒子打死所有人。这时候需要另外一个插件，[ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)代码里的那些冷冰冰的颜色数值，到底时什么颜色？如果你经常遇到这个问题，每每不得不运行下模拟器去看看，那么这个插件绝对不容错过。更彪悍的是你甚至可以点击显示的颜色面板，直接通过系统的ColorPicker来自动生成对应颜色代码，再也不用做各种颜色代码转换了！
+####7、[ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode)对于现阶段，扁平化的设计、扁平化的app越来越多，这时候对颜色的感知需要敏感，对于程序员而言，可能对颜色没那么敏感，我只是说普通，不是一棒子打死所有人。这时候需要另外一个插件，代码里的那些冷冰冰的颜色数值，到底时什么颜色？如果你经常遇到这个问题，每每不得不运行下模拟器去看看，那么这个插件绝对不容错过。更彪悍的是你甚至可以点击显示的颜色面板，直接通过系统的ColorPicker来自动生成对应颜色代码，再也不用做各种颜色代码转换了！
 * 使用心得：当我看到一个UI高保真图的时候，想知道那个颜色的RGB，问UI，我去，他不烦我也烦了，所以直接打开Mac自带的工具，数码测色计，吸取颜色的RGB，然后配合ColorSense插件，就可以直接对UI设置颜色了，扁平化又高保的UI出来啦！哈哈
 
 
@@ -52,9 +52,9 @@ XHXcodePlug
 ![image](http://img.my.csdn.net/uploads/201209/20/1348077380_7140.png)
 
 
-####13、我们国人开发的Xcode插件，必须顶起，而且真的很实用，[ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin)你能快速在Simulator文件夹中找到对应编译过的App。
+####13、[ZLGotoSandboxPlugin](https://github.com/MakeZL/ZLGotoSandboxPlugin我们国人开发的Xcode插件，必须顶起，而且真的很实用，)你能快速在Simulator文件夹中找到对应编译过的App。
 * 使用心得，感觉比较实在，比如我想看数据库文件，录制的视频文件，那就可以快速的响应，而不需要，咦！你等下，我找找看。
 
-####终极插件，嘿嘿！[Alcatraz](https://github.com/supermarin/Alcatraz)是一个开源的Xcode 4包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
+#### [Alcatraz](https://github.com/supermarin/Alcatraz)终极插件，嘿嘿！是一个开源的Xcode 包管理器，可以让你更便捷地发现、安装以及管理插件、模板和配色方案。只需要简单地点击或者勾选，不需要手工复制和粘贴。
 * 使用心得：当你想起一个插件的时候，可能会想知道他有什么功能，或者先预览一下，这时候它就可以帮你了，每个插件的描述右下角有两个按钮，可以出现你喜欢的功能，哈哈！
 
